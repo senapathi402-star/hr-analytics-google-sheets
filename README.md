@@ -37,8 +37,9 @@ An automated HR Analytics Dashboard built with Google Sheets and Google Apps Scr
 - Custom Menu (HR Tools)
 
 ## 📸 Screenshots
-![HR Report](report_screenshot.png)
 
+🔗 Link
+- 📊 [View Google Sheet]([your_google_sheet_link_here](https://docs.google.com/spreadsheets/d/1pB2oXd7oqeub-Dt4rgV5sxP7h_qyw1S-MCgetMmbEAk/edit?usp=sharing))
 ## 🚀 How to Use
 1. Open the Google Sheet
 2. Click **HR Tools** in the menu bar
