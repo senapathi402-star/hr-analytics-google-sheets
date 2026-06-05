@@ -37,8 +37,8 @@ An automated HR Analytics Dashboard built with Google Sheets and Google Apps Scr
 - Custom Menu (HR Tools)
 
 ## 📸 Screenshots
-<img width="807" height="648" alt="image" src="https://github.com/user-attachments/assets/b1c201b3-6dd5-468a-b1cf-dc5ca44036f1" />
-
+![HR Tools Menu](hr_tools_menu.jpg)
+![HR Report](hr_report.jpg)
 ## 🔗 Links
 - 📊 [View Google Sheet](https://docs.google.com/spreadsheets/d/1pB2oXd7oqeub-Dt4rgV5sxP7h_qyw1S-MCgetMmbEAk/edit?usp=sharing)
 - 💼 [LinkedIn](https://linkedin.com/in/senapathi-krishna-sai)
